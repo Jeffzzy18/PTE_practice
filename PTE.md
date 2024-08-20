@@ -218,6 +218,7 @@
    - 宁可加词不要减词
 
 # 猩际pte班课
+![alt text](image.png)
 ## 周一(听力高分题FIB-L,HIW,WFD)每天都要练
 1. HIW(选错误单词)
    - HiW要全对.(平时要1.2和1.5倍速播放,取自生活中的实景)
@@ -263,6 +264,7 @@
     - 加词的数量是不会影响评分的,放心大胆的把所有形式写上去!
     - she is 和 she's 不确定都能写上
     - 试一下从词汇: the, of, to, is, a, in, and, are, for, be, students.
+    - a in on of is or to be the and are for this that these those
     - 名词把单数复数都写上
     - 动词检查主谓一致,三单和时态,加词
     - 四步法:
@@ -277,7 +279,63 @@
   - 第二步:重复第一遍的内容, 至少复数80%的内容 
   - 第三步:同样播放20个题目,每播放1题在心里复数,至少过80%就能通过
    the temporary libra will be closed in the winter break.
-
+## 周二(65左右,尽量做,79提高听力,能作对的就不要错)
+1. SST 10分单独计时(包括音频时间,写作时间大概是8:30)
+ - 右上角能看见1 of 1或者1 of 2 50-70字
+ - 机经命中率高
+ - 满分10分
+ - content,有分就行(0.5分就行/2),能区分出主题,
+ - 格式要求,格式0分就不向下评分
+ - 格式要求:50-70个字,就是2分满分
+ - grammar,只要语法完全正确,就可以得满分,1处错误就只有1分了
+ - vocabulary只要是合适的单词就能得满分,使用原词原句
+ - spelling 拼写满分2分错一个就是1分,错两个就是0分
+ - 关键点不准确听力口1分,如果几下来的内容少可以直接使用sst模版
+ - **SST需要记句子**
+ - SST可以使用模版
+ - 边听边记(1-2mins)
+ - 编辑答案(5-7mins)
+ - 检查答案(2-3mins)
+ - 主题句一般出现在开头几句中,提出topic
+ - 有四到五个主要观点,每2-3句中有一个主要观点
+ - 找语义提示词
+ - 表意见:researchers,professional,expers suggest
+ - 表结论:as a result, in conclusion turns out that therefore
+ - but how
+ - 如果能力比较弱,1训练自己听信号词,2句子里的实词(n,v,a,ad,topic是底线)
+ - 1. 理解为王:
+ - 2. 要记主干:要记下足够的笔记才能记住句子的大意
+ - 3. 速记符号:(?=X)和缩写
+ - 4. 笔记排版:每个关键点分行记
+ - 5. 字迹清晰:以便理解回忆
+- 不能用缩写
+- 添加是适当的连接词
+- 模版如下:
+- ![alt text](image-1.png)
+- 模版需要添加1个名词和6个句子
+- 一定要达到五十个字,如果达不到50个词,就复制相同的句子
+- 模板是不会导致加分和减分,但是会限制关键点的字数
+- 笔记内容少才建议使用模板
+- 填写的句子要与原句的句意相近
+- 不要套词
+- 不要同义替换!!!
+- 65分简单方法找点,不需要区分句子的主次意思+要听出topic
+- 79分听懂文章,找出总结性内容
+2. MC多选(倒扣分)
+   - 单选是圆圈 多选是方框
+   - 选对是1分, 选错会扣分
+   - 播放之前先看题目,是correct还是incorrect
+   - 五个选项选2个,多于5个选3个
+3. HCS(选总结)
+  - 听力+阅读
+  - 可以选择一个最短的选项来选
+  - 1.5min一道
+  - 
+4. MC单选 1-2个
+   - 前面是圆圈,选择一个最优答案
+5. SMW 选缺词1分
+ - 看题目中的You will heart a recording about xxxx
+7. 
 
 -----------------
 # RS词组: 
@@ -314,6 +372,80 @@
 10. television
 11. laboratory
 12. worn (wear的过去式)
+13. responsible有责任的
+14. rural 农村
+15. agricultural 农业的
+16. transformation [n] 转变；（用于南非）民主改革
+17. dedicate [v] 把…奉献给；（在书、音乐或演出的前部）题献词；为…举行奉献典礼
+18. Gravity [n] 重力；严重性；严肃；地球引力
+19. experiment [n] 实验；试验；尝试；实践
+20. horizontal line水平线
+# FIB 单词拼写
+1. physician 医生
+2. expertise 专长
+3. preliminary 初赛
+4. physicists  物理学家
+5. magnetism 磁性；磁力；吸引力；魅力
+6. hierarchy 层次体系；等级制度（尤指社会或组织）；统治集团
+7. exception [n] 例外；一般情况以外的人（或事物）；规则的例外；例外
+8. constant 常数
+9. vary 改变
+10. spread 传播
+11. categorized [v] 将…分类；把…加以归类
+12. Essentially [adv] 基本上；本质上；根本上
+13. realists [n] 现实主义者；务实的人；现实主义作家（或画家等）
+14. license 驾照
+15. bored [n] 钻孔；口径；（常因话多）令人厌烦的人；烦人的状况（或事情）
+16. irrelevant [adj] 无关紧要的；不相关的
+17.  prerequisite n. 先决条件 ,adj. 首要必备的
+18.  hypothesise v. 假定，假设
+19.  summarized v. 总结，概括；概述（summarize的过去式及过去分词形式）
+20.  contents n. 内容；[图情][计] 目录；要旨（content的复数） ,v. 使满意（content的三单形式
+21.  staring adj. 凝视的，目不转睛的；瞪着眼的；显眼的；怪俗气的；（头发）倒竖的 ,v. 凝视；盯着看；显眼，明摆在某人面前；目不转睛把……看得（stare 的现在分词）,n. (Staring) （美、荷、瑞典、加）斯塔林（人名）
+22.  predominant adj. 主要的；卓越的；支配的；有力的；有影响的
+23.  sleek adj. 圆滑的；井然有序的 ,vt. 使…光滑；掩盖,vi. 打扮整洁；滑动
+24.  mammals n. [古生] 哺乳类；哺乳类动物（mammal的复数）；哺乳纲
+25.  socio-economic adj. 社会经济的
+26.  muscle 肌肉 
+27.  pendulum  n. 钟摆；摇锤；摇摆不定的事态 
+28.  oceanographer n. 海洋学家；海洋研究者 
+29.  countries 国家 country的复数 
+30.  immense 巨大的 
+31.  vertical adj. 垂直的，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的 ,n. 垂直线，垂直面；垂直位置
+32.  nutrients 营养盐 ,[食品] 营养素 
+33.  mathematical adj. 数学的，数学上的；精确的 mathematical
+34.  mathematics 数学
+35.  droplets n. [流] 液滴（droplet的复数）；飞沫
+36.  envisions 想像，展望（envision的第三人称单数）
+37.  trajectory n. [物] 轨道，轨线；[航][军] 弹道 
+38.  obesity n. 肥大，肥胖
+39.  premium n. 额外费用；奖金；保险费;(商)溢价 ,adj. 高价的；优质
+40.  burgeon v. 萌芽, 发芽；迅速增长 ,n. 芽, 嫩枝
+41.  incorporating adj. 合并的 ,v. 合并（incorporate 的现在分词）
+42.  behaviour
+43.  apologise
+44.  phonograph 留声机 
+45.  stitch n. 针脚，线迹
+46.  urgency 紧急的事
+47.  compossible adj. 可共存的
+48.  splashes n. 色斑；散点（splas的h复数
+49.  implement vt. 实施，执行；实现，使生效 ,n. 工具，器具；手段
+50.  unashamedly adv. 无愧地；厚颜无耻
+51.  occurrence n. 发生；出现；事件；发现
+52.  encyclopedia n. 百科全书（亦是encyclopaedia）
+53.  personalised adj. （英）个人化的（等于personalized）
+54.  squabble v. （为琐事）发生口角，大声争吵 ,n. 争吵，口角
+55.  ecological adj. 生态的，生态学的
+56.  insights n. 洞察力；眼力；深刻见解（insight的复数）
+57.  concentrate 集中注意力
+58.  anxiety anxious
+59.  population 不可数
+
+
+
+
+
+
 
 <!-- 
 
