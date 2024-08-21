@@ -440,6 +440,25 @@
 57.  concentrate 集中注意力
 58.  anxiety anxious
 59.  population 不可数
+60.  legitimate adj. 合法的；正当的；合理的；正统的 ,vt. 使合法；认为正当（等于legitimize）
+61.  engine 引擎
+62.  pragmatic adj. 实际的；实用主义的
+63.  tremendously adv. 非常地；可怕地；惊人地
+64.  fundamental adj. 基本的，根本的 ,n. 基本原理；基本原则
+65.  diseases n. [医] 病（disease的复数）；[医] 疾病；[植保] 病害；疾病种类
+66.  leans n. 倾斜；倾斜错觉（lean的复数） ,v. 倚靠（lean的第三人称单数形式）
+67.  ridiculous 荒谬的,可笑的,荒唐的,好笑的 Ridiculous Thoughts:天马行空,胡思乱想,荒谬的想法,荒谬的思想 Ridiculous reality:荒谬的现实
+68.  protection 保护
+69.  supplemented v. 增补，补充（supplement的过去分词）
+70.  saturated adj. 饱和的；渗透的；深颜色的 ,v. 使渗透，使饱和 (saturate的过去式)
+71.  scenario n. 方案；情节；剧本；设想
+72.  envision vt. 想象；预想
+73.  robust adj. 强健的；健康的；粗野的；粗鲁的
+74.  observe vt. 庆祝 ,vt. 观察；遵守；说；注意到；评论,vi. 观察；说；注意到；评论
+75.  graphic adj. 形象的；图表的；绘画似的
+76.  boundary
+77.  evoke vt. 引起，唤起；博得
+78.  strategy
 
 
 
