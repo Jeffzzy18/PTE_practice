@@ -280,7 +280,7 @@
   - 第三步:同样播放20个题目,每播放1题在心里复数,至少过80%就能通过
    the temporary libra will be closed in the winter break.
 ## 周二(65左右,尽量做,79提高听力,能作对的就不要错)
-1. SST 10分单独计时(包括音频时间,写作时间大概是8:30)
+1. **SST 10分单独计时(包括音频时间,写作时间大概是8:30)**
  - 右上角能看见1 of 1或者1 of 2 50-70字
  - 机经命中率高
  - 满分10分
@@ -335,7 +335,28 @@
    - 前面是圆圈,选择一个最优答案
 5. SMW 选缺词1分
  - 看题目中的You will heart a recording about xxxx
-7. 
+## 周三()
+第九张PPT,25mins
+1. FIB-R拖拽(刷完所有机经能碰到1-2个原题)
+- 词性
+- 上下文理解
+- 空着等待
+- 最后选择
+2. FIB-RW下拉题(刷完所有机经后能碰到1-3个原题)
+   - 一道题1.5到2min一题
+   - 选错不扣分
+   - 大部分的时候词性都是一样的
+   - 1分一空
+   - 50分正确率:50%,79正确率:80%
+   - 技巧:
+   - 1. 褒贬态度, 感情色彩,态度,正向意义,负向意义的词,挖空词和整体保持一致
+   - 2. 显性逻辑关系标志词 but however though whilse
+   - 隐性逻辑词: instead of, rather than despite
+   - 3. 固定搭配: 
+   - 找自己的薄弱项 词汇>语法>文章意思
+   - 精度PTE月预测机经
+   - 背单词和FIB机经固定搭配
+   - 50分-基础词汇,65/79高阶词汇
 
 -----------------
 # RS词组: 
@@ -343,6 +364,10 @@
 2. capacity to serve the community  服务社会的能力
 3. balanced diet 均衡的饮食
 4. study more effectively 提高学习效率
+# 词组
+1. refer to sth as sth 把sth认为是什么
+2. quality 特征 
+3. less accessible
 
 # RA 单词发音
 1. written  /riten/
@@ -459,6 +484,40 @@
 76.  boundary
 77.  evoke vt. 引起，唤起；博得
 78.  strategy
+79.  alliance n. 联盟，联合；联姻
+80.  ingredients n. 材料；佐料
+81.  statics 静力学
+82.  investigators n. 研究者，调查者（investigator的复数形式）；[法] 审查者（investigator的复数形式）
+83.  invisible adj. 无形的，看不见的；无形的；不显眼的，暗藏的
+84.  instinct n. 本能，直觉；天性 ,adj. 充满着的
+85.  emphases n. 重点（emphasis的复数形式）
+86.  fossil
+87.  extreme
+88.  exposure n. 暴露；曝光；揭露；陈列
+89.  creed n. 信条，教义 ,n. (Creed)人名；(英)克里德
+90.  illusion n. 幻觉，错觉；错误的观念或信仰
+91.  opportunity 机会
+92.  in attempt to do sth/pay attention to
+93.  quality质量
+94.  quantity数量
+95.  qualification 资格
+96.  quantification 量化
+97.  regulate 调节
+98.  relatives 亲属
+99.  deformed adj. 畸形的；丑陋的；残废的 ,v. 使……残缺；使……变形（deform 的过去式和过去分词
+100. empathy n. 神入；移情作用；执着；感同身受；共鸣
+101. radically adv. 根本上；彻底地；以激进的方式
+102. commence v. 开始；着手；<英>获得学位
+103. attuned 熟悉理解
+104. incorporate vt. 包含，吸收；体现；把……合并 ,vi. 合并；混合；组成公司,adj. 合并的；一体化的；组成公司的
+105. temporary adj. 暂时的，临时的 ,n. 临时工，临时雇员
+# 乱七八糟笔记
+1. although 尽管表示让步,but 但是表转折. but的语气更加强烈.
+2. suppress抑制 stimulate激发 pre-determined contacts预先联系人
+3. humble谦虚的 hydrated[v] 〔化〕进行水合反应；(使)成水合物；(使)水合
+4. a well-known figure一个知名的人物
+5. survives [v] 生存；存活；幸存；继续存在
+6. plateaued 达到某种平衡, equitable [adj] 公平合理的；公正的, bleak [adj] 不乐观的；无望的；暗淡的；阴冷的, retarded 智障的, 发展迟缓的
 
 
 
