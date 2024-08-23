@@ -336,13 +336,15 @@
 5. SMW 选缺词1分
  - 看题目中的You will heart a recording about xxxx
 ## 周三()
+![alt text](image-2.png)
+
 第九张PPT,25mins
-1. FIB-R拖拽(刷完所有机经能碰到1-2个原题)
+1. FIB-R拖拽(刷完所有机经能碰到1-2个原题,****)
 - 词性
 - 上下文理解
 - 空着等待
 - 最后选择
-2. FIB-RW下拉题(刷完所有机经后能碰到1-3个原题)
+2. FIB-RW下拉题(刷完所有机经后能碰到1-3个原题写作29% 阅读29%)
    - 一道题1.5到2min一题
    - 选错不扣分
    - 大部分的时候词性都是一样的
@@ -357,7 +359,76 @@
    - 精度PTE月预测机经
    - 背单词和FIB机经固定搭配
    - 50分-基础词汇,65/79高阶词汇
+## 周四
+![alt text](image-3.png)
+![alt text](image-4.png)
+1. MC单选
+    -  不要花很多时间来纠结,最多1.5min 基础不好控制在1min,给FIB留时间
+   - 答案的可得性不高
+   - 读题 >> 看文章 >> 作答
+   - 
+2. MC多选
+   - 直接选一个就走
+   - 
+3. RO(做到RO要还有15mins,占分 7%)
+   - 如果BACED得满分,BCAED得1分,因为一个相邻对得一分
+   - 很容易超时,每题最多2 分钟
+   - 基础不好得一半就好
+   - 答题时间1.5mins
+   - 1. 指示词: 找出指示代词.一级指示代词: this, the, he, his, it, their 二级指示代词: the. 没有任何指示代词就是首句.
+   - 2. 逻辑词
+   - 3. 时间顺序
+   - 4. 经验感悟
+   - 技巧:
+   - 找首句,找配对句,时间关系,逻辑词,逻辑关系
+   - 很多的题目有时技巧用不上
+   - 注意时间
+   - 把机经当做练习题,提高自己的阅读水平
+   - 太难的不要纠结
+   - 79 对一半就行 65 对25% 50不用管
+## 周五WE
+   1. WE:
+   ![alt text](image-5.png)
+   模板: <br>
+    - Nowadays, whether (topic) has attracted numerous controversies and drawn the public’s attention. Some people believe that ... (一个观点), while others hold the view that ... (另一个观点). In my opinion, ... (你的观点) for ... (A) and ... (B) reasons.
 
+    - Firstly, the ... (A) reason is why I think ... (改写你的观点). Although potentially positive/negative impacts of ... (topic里的主语，如电脑，法律等) must be taken into account, I still reckon that ... (topic 里的主语) has in many ways enormously harmed/enriched people’s lives. For example, a well-known American scientist Einstein once said that ... (编一句与主题相关的话). It is thus clearly shown that ... (你的观点).
+
+    - Moreover, another factor that should be considered is the ... (B) reason. As far as society is concerned, the ultimate aim of ... (topic里的主语) is to ... (扣题的话). For instance, a recent article published in/by Scientific American/The Economist revealed that ... (编一句与主题相关的话). Undoubtedly, this is a clear indication that ... (你的观点).
+
+    - To sum up/In conclusion, I hold the view that ... (你的观点). To address this issue, the government and society should make a concerted eﬀort to find solutions.
+   - 20 分钟单独计时
+   - 占分17%
+   - 1-2 min 读题+plan, 12-15 mins写(八分钟内打完全部模版), 3-5mins检查
+   - 写满字就是2分 尽量要拿到
+   - 拼写错一个就扣一分,错两个就没有分数了
+   - 模版可以帮做到用词丰富, 句式丰富, 逻辑结构
+   - 问题: 花太多时间想观点, 没时间检查拼写,简单语法错误找不出来, 用错了不熟悉的词组搭配
+   - 尽量写简单一点的东西.
+   - 文章的结构:
+   - 1. 开头表明立场
+   - 2. 论点1观点阐述
+   - 3. 论点2
+   - 4. 总结
+   - ![alt text](image-6.png)
+   - 第一段: topic加句子,A和B是adj
+   - 第二段: positive/negative要选和第二段开头观点相反的, harm/enriched的选择和第二段观点要保持一致
+   - 自己写50个词左右
+   - 例文:
+   - 完全同意
+   - ![alt text](image-7.png)
+   - largely agree + disagree under some conditions
+   - ![alt text](image-8.png)
+   - 观点类:两个问题,一段写好的原因,一段写不好的原因
+   - ![alt text](image-9.png)
+   - 开放性的问题:
+   - ![alt text](image-10.png)
+   - 第一段结尾不同,第二段开头不同,第三段开头不同
+   - 解题思路拓展:个人类, 一般适用于接地气的个人生活类题目,题目中包含:![alt text](image-11.png)
+   - 解题思路:社会类, 
+   - ![alt text](image-12.png)
+   - ![alt text](image-13.png)
+   
 -----------------
 # RS词组: 
 1. on and off campus 校园的线上和线下
@@ -405,112 +476,175 @@
 18. Gravity [n] 重力；严重性；严肃；地球引力
 19. experiment [n] 实验；试验；尝试；实践
 20. horizontal line水平线
+21. modern 现代的
+22. professional专业的
+23. opportunity 机会
+24. scholarship 奖学金
+25. variety 许多
+26. theater
+27. seminar
+28. archeologist
+29. phenomenon
+30. compound
+31. presenters 
+32. **eye contact**
+33. Practical
+34. practical
+35. physics
+36. mechanics
+37. mathematics
+
 # FIB 单词拼写
 1. physician 医生
-2. expertise 专长
-3. preliminary 初赛
-4. physicists  物理学家
-5. magnetism 磁性；磁力；吸引力；魅力
-6. hierarchy 层次体系；等级制度（尤指社会或组织）；统治集团
-7. exception [n] 例外；一般情况以外的人（或事物）；规则的例外；例外
-8. constant 常数
-9. vary 改变
-10. spread 传播
-11. categorized [v] 将…分类；把…加以归类
-12. Essentially [adv] 基本上；本质上；根本上
-13. realists [n] 现实主义者；务实的人；现实主义作家（或画家等）
-14. license 驾照
-15. bored [n] 钻孔；口径；（常因话多）令人厌烦的人；烦人的状况（或事情）
-16. irrelevant [adj] 无关紧要的；不相关的
-17.  prerequisite n. 先决条件 ,adj. 首要必备的
-18.  hypothesise v. 假定，假设
-19.  summarized v. 总结，概括；概述（summarize的过去式及过去分词形式）
-20.  contents n. 内容；[图情][计] 目录；要旨（content的复数） ,v. 使满意（content的三单形式
-21.  staring adj. 凝视的，目不转睛的；瞪着眼的；显眼的；怪俗气的；（头发）倒竖的 ,v. 凝视；盯着看；显眼，明摆在某人面前；目不转睛把……看得（stare 的现在分词）,n. (Staring) （美、荷、瑞典、加）斯塔林（人名）
-22.  predominant adj. 主要的；卓越的；支配的；有力的；有影响的
-23.  sleek adj. 圆滑的；井然有序的 ,vt. 使…光滑；掩盖,vi. 打扮整洁；滑动
-24.  mammals n. [古生] 哺乳类；哺乳类动物（mammal的复数）；哺乳纲
-25.  socio-economic adj. 社会经济的
-26.  muscle 肌肉 
-27.  pendulum  n. 钟摆；摇锤；摇摆不定的事态 
-28.  oceanographer n. 海洋学家；海洋研究者 
-29.  countries 国家 country的复数 
-30.  immense 巨大的 
-31.  vertical adj. 垂直的，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的 ,n. 垂直线，垂直面；垂直位置
-32.  nutrients 营养盐 ,[食品] 营养素 
-33.  mathematical adj. 数学的，数学上的；精确的 mathematical
-34.  mathematics 数学
-35.  droplets n. [流] 液滴（droplet的复数）；飞沫
-36.  envisions 想像，展望（envision的第三人称单数）
-37.  trajectory n. [物] 轨道，轨线；[航][军] 弹道 
-38.  obesity n. 肥大，肥胖
-39.  premium n. 额外费用；奖金；保险费;(商)溢价 ,adj. 高价的；优质
-40.  burgeon v. 萌芽, 发芽；迅速增长 ,n. 芽, 嫩枝
-41.  incorporating adj. 合并的 ,v. 合并（incorporate 的现在分词）
-42.  behaviour
-43.  apologise
-44.  phonograph 留声机 
-45.  stitch n. 针脚，线迹
-46.  urgency 紧急的事
-47.  compossible adj. 可共存的
-48.  splashes n. 色斑；散点（splas的h复数
-49.  implement vt. 实施，执行；实现，使生效 ,n. 工具，器具；手段
-50.  unashamedly adv. 无愧地；厚颜无耻
-51.  occurrence n. 发生；出现；事件；发现
-52.  encyclopedia n. 百科全书（亦是encyclopaedia）
-53.  personalised adj. （英）个人化的（等于personalized）
-54.  squabble v. （为琐事）发生口角，大声争吵 ,n. 争吵，口角
-55.  ecological adj. 生态的，生态学的
-56.  insights n. 洞察力；眼力；深刻见解（insight的复数）
-57.  concentrate 集中注意力
-58.  anxiety anxious
-59.  population 不可数
-60.  legitimate adj. 合法的；正当的；合理的；正统的 ,vt. 使合法；认为正当（等于legitimize）
-61.  engine 引擎
-62.  pragmatic adj. 实际的；实用主义的
-63.  tremendously adv. 非常地；可怕地；惊人地
-64.  fundamental adj. 基本的，根本的 ,n. 基本原理；基本原则
-65.  diseases n. [医] 病（disease的复数）；[医] 疾病；[植保] 病害；疾病种类
-66.  leans n. 倾斜；倾斜错觉（lean的复数） ,v. 倚靠（lean的第三人称单数形式）
-67.  ridiculous 荒谬的,可笑的,荒唐的,好笑的 Ridiculous Thoughts:天马行空,胡思乱想,荒谬的想法,荒谬的思想 Ridiculous reality:荒谬的现实
-68.  protection 保护
-69.  supplemented v. 增补，补充（supplement的过去分词）
-70.  saturated adj. 饱和的；渗透的；深颜色的 ,v. 使渗透，使饱和 (saturate的过去式)
-71.  scenario n. 方案；情节；剧本；设想
-72.  envision vt. 想象；预想
-73.  robust adj. 强健的；健康的；粗野的；粗鲁的
-74.  observe vt. 庆祝 ,vt. 观察；遵守；说；注意到；评论,vi. 观察；说；注意到；评论
-75.  graphic adj. 形象的；图表的；绘画似的
-76.  boundary
-77.  evoke vt. 引起，唤起；博得
-78.  strategy
-79.  alliance n. 联盟，联合；联姻
-80.  ingredients n. 材料；佐料
-81.  statics 静力学
-82.  investigators n. 研究者，调查者（investigator的复数形式）；[法] 审查者（investigator的复数形式）
-83.  invisible adj. 无形的，看不见的；无形的；不显眼的，暗藏的
-84.  instinct n. 本能，直觉；天性 ,adj. 充满着的
-85.  emphases n. 重点（emphasis的复数形式）
-86.  fossil
-87.  extreme
-88.  exposure n. 暴露；曝光；揭露；陈列
-89.  creed n. 信条，教义 ,n. (Creed)人名；(英)克里德
-90.  illusion n. 幻觉，错觉；错误的观念或信仰
-91.  opportunity 机会
-92.  in attempt to do sth/pay attention to
-93.  quality质量
-94.  quantity数量
-95.  qualification 资格
-96.  quantification 量化
-97.  regulate 调节
-98.  relatives 亲属
-99.  deformed adj. 畸形的；丑陋的；残废的 ,v. 使……残缺；使……变形（deform 的过去式和过去分词
-100. empathy n. 神入；移情作用；执着；感同身受；共鸣
-101. radically adv. 根本上；彻底地；以激进的方式
-102. commence v. 开始；着手；<英>获得学位
-103. attuned 熟悉理解
-104. incorporate vt. 包含，吸收；体现；把……合并 ,vi. 合并；混合；组成公司,adj. 合并的；一体化的；组成公司的
-105. temporary adj. 暂时的，临时的 ,n. 临时工，临时雇员
+2. physicists [n] 物理学家；物理学研究者
+3. psychological 心理的
+4. physical 身体上的 
+5. expertise 专长expertise
+6. preliminary 初赛
+7. physicists  物理学家
+8. magnetism 磁性；磁力；吸引力；魅力
+9. hierarchy 层次体系；等级制度（尤指社会或组织）；统治集团
+10. exception [n] 例外；一般情况以外的人（或事物）；规则的例外；例外
+11. analysts [n] 分析者；化验员
+12. constant 常数
+13. deforestation [n] 毁林；滥伐森林；烧林
+14. vary 改变
+15. spread 传播
+16. categorized [v] 将…分类；把…加以归类
+17. Essentially [adv] 基本上；本质上；根本上
+18. realists [n] 现实主义者；务实的人；现实主义作家（或画家等）
+19. license 驾照
+20. bored [n] 钻孔；口径；（常因话多）令人厌烦的人；烦人的状况（或事情）
+21. irrelevant [adj] 无关紧要的；不相关的
+22.  prerequisite n. 先决条件 ,adj. 首要必备的
+23.  hypothesise v. 假定，假设
+24.  summarized v. 总结，概括；概述（summarize的过去式及过去分词形式）
+25.  contents n. 内容；[图情][计] 目录；要旨（content的复数） ,v. 使满意（content的三单形式
+26.  staring adj. 凝视的，目不转睛的；瞪着眼的；显眼的；怪俗气的；（头发）倒竖的 ,v. 凝视；盯着看；显眼，明摆在某人面前；目不转睛把……看得（stare 的现在分词）,n. (Staring) （美、荷、瑞典、加）斯塔林（人名）
+27.  predominant adj. 主要的；卓越的；支配的；有力的；有影响的
+28.  sleek adj. 圆滑的；井然有序的 ,vt. 使…光滑；掩盖,vi. 打扮整洁；滑动
+29.  mammals n. [古生] 哺乳类；哺乳类动物（mammal的复数）；哺乳纲
+30.  socio-economic adj. 社会经济的
+31.  muscle 肌肉 
+32.  pendulum  n. 钟摆；摇锤；摇摆不定的事态 
+33.  oceanographer n. 海洋学家；海洋研究者 
+34.  countries 国家 country的复数 
+35.  immense 巨大的 
+36.  vertical adj. 垂直的，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的 ,n. 垂直线，垂直面；垂直位置
+37.  nutrients 营养盐 ,[食品] 营养素 
+38.  mathematical adj. 数学的，数学上的；精确的 mathematical
+39.  mathematics 数学
+40.  droplets n. [流] 液滴（droplet的复数）；飞沫
+41.  envisions 想像，展望（envision的第三人称单数）
+42.  trajectory n. [物] 轨道，轨线；[航][军] 弹道 
+43.  obesity n. 肥大，肥胖
+44.  premium n. 额外费用；奖金；保险费;(商)溢价 ,adj. 高价的；优质
+45.  burgeon v. 萌芽, 发芽；迅速增长 ,n. 芽, 嫩枝
+46.  incorporating adj. 合并的 ,v. 合并（incorporate 的现在分词）
+47.  behaviour
+48.  apologise
+49.  phonograph 留声机 
+50.  stitch n. 针脚，线迹
+51.  urgency 紧急的事
+52.  compossible adj. 可共存的
+53.  splashes n. 色斑；散点（splas的h复数
+54.  implement vt. 实施，执行；实现，使生效 ,n. 工具，器具；手段
+55.  unashamedly adv. 无愧地；厚颜无耻
+56.  occurrence n. 发生；出现；事件；发现
+57.  encyclopedia n. 百科全书（亦是encyclopaedia）
+58.  personalised adj. （英）个人化的（等于personalized）
+59.  squabble v. （为琐事）发生口角，大声争吵 ,n. 争吵，口角
+60.  ecological adj. 生态的，生态学的
+61.  insights n. 洞察力；眼力；深刻见解（insight的复数）
+62.  concentrate 集中注意力
+63.  anxiety anxious
+64.  population 不可数
+65.  legitimate adj. 合法的；正当的；合理的；正统的 ,vt. 使合法；认为正当（等于legitimize）
+66.  engine 引擎
+67.  pragmatic adj. 实际的；实用主义的
+68.  tremendously adv. 非常地；可怕地；惊人地
+69.  fundamental adj. 基本的，根本的 ,n. 基本原理；基本原则
+70.  diseases n. [医] 病（disease的复数）；[医] 疾病；[植保] 病害；疾病种类
+71.  leans n. 倾斜；倾斜错觉（lean的复数） ,v. 倚靠（lean的第三人称单数形式）
+72.  ridiculous 荒谬的,可笑的,荒唐的,好笑的 Ridiculous Thoughts:天马行空,胡思乱想,荒谬的想法,荒谬的思想 Ridiculous reality:荒谬的现实
+73.  protection 保护
+74.  supplemented v. 增补，补充（supplement的过去分词）
+75.  saturated adj. 饱和的；渗透的；深颜色的 ,v. 使渗透，使饱和 (saturate的过去式)
+76.  scenario n. 方案；情节；剧本；设想
+77.  envision vt. 想象；预想
+78.  robust adj. 强健的；健康的；粗野的；粗鲁的
+79.  observe vt. 庆祝 ,vt. 观察；遵守；说；注意到；评论,vi. 观察；说；注意到；评论
+80.  graphic adj. 形象的；图表的；绘画似的
+81.  boundary
+82.  evoke vt. 引起，唤起；博得
+83.  strategy
+84.  alliance n. 联盟，联合；联姻
+85.  ingredients n. 材料；佐料
+86.  statics 静力学
+87.  investigators n. 研究者，调查者（investigator的复数形式）；[法] 审查者（investigator的复数形式）
+88.  invisible adj. 无形的，看不见的；无形的；不显眼的，暗藏的
+89.  instinct n. 本能，直觉；天性 ,adj. 充满着的
+90.  emphases n. 重点（emphasis的复数形式）
+91.  fossil
+92.  extreme
+93.  exposure n. 暴露；曝光；揭露；陈列
+94.  creed n. 信条，教义 ,n. (Creed)人名；(英)克里德
+95.  illusion n. 幻觉，错觉；错误的观念或信仰
+96.  opportunity 机会
+97.  in attempt to do sth/pay attention to
+98.  quality质量
+99.  quantity数量
+100. qualification 资格
+101. quantification 量化
+102. regulate 调节
+103. relatives 亲属
+104. deformed adj. 畸形的；丑陋的；残废的 ,v. 使……残缺；使……变形（deform 的过去式和过去分词
+105. empathy n. 神入；移情作用；执着；感同身受；共鸣
+106. radically adv. 根本上；彻底地；以激进的方式
+107. commence v. 开始；着手；<英>获得学位
+108. attuned 熟悉理解
+109. incorporate vt. 包含，吸收；体现；把……合并 ,vi. 合并；混合；组成公司,adj. 合并的；一体化的；组成公司的
+110. temporary adj. 暂时的，临时的 ,n. 临时工，临时雇员 
+111. approach v. 走进；与……接洽；处理；临近，逐渐接近（某时间或事件）；几乎达到（某水平或状态） ,n. 方法，方式；接近；接洽；（某事的）临近；路径；进场（着陆）；相似的事物
+112. spectacle n. 景象；场面； 
+113. calories 卡路里
+114. deliberately 故意地
+115. latter adj. 后者的；近来的；后面的；较后的 ,n. (Latter)人名；(英、德、捷)拉特
+116. clot n. 凝块，黏团
+117. shadow 影子
+118. shed vt. 流出；摆脱；
+119. ravel 解开弄明白
+120. dramatically
+121. illustrative adj. 说明的；作例证的；解说的
+122. naval 海军
+123. pollination 农学
+124. vernacular 土话, 本地的
+125. consecutive 连续的
+126. confessed adj. 坦白的，认罪的；众所公认的，不容怀疑的，公开的，众所周知的 ,v. 坦白；承认（confess 的过去式和过去分词
+127. opposed 反对的
+128. recognition 标记识别
+129. curiosity
+130. curious
+131. propulsion [n] 推进；推动力
+132. emergence emergency
+133. planet 星球
+134. characteristic [n] 特征；特点；品质
+135. initiated [v] 开创；开始；提出；制定 
+136. hone [v] 磨练；想念；用磨刀石磨；磨光
+137. live 生活方式复数是lives
+138. life 生命,复数是lives
+139. fundamental [n] 基础；基本原理；基本规律；根本法则
+140. compatible [adj] 兼容的；可共用的；可共存的；（因思想、志趣等相投而）关系好的
+141. habitable [adj] 适合居住的
+142. subscribe [v] 预订；申请；定期订购（或订阅等）；定期交纳（会员费）
+143. electronically [adv] 用电子方法；用电子装置
+144. permeate [v] 渗透；弥漫；扩散；感染
+145. eliminate [v] 消除；消灭；清除；淘汰
+146. cast some doubt 产生一些怀疑
+147. rarely
+148. authors
+149. relative
+
 # 乱七八糟笔记
 1. although 尽管表示让步,but 但是表转折. but的语气更加强烈.
 2. suppress抑制 stimulate激发 pre-determined contacts预先联系人
@@ -518,11 +652,18 @@
 4. a well-known figure一个知名的人物
 5. survives [v] 生存；存活；幸存；继续存在
 6. plateaued 达到某种平衡, equitable [adj] 公平合理的；公正的, bleak [adj] 不乐观的；无望的；暗淡的；阴冷的, retarded 智障的, 发展迟缓的
-
-
-
-
-
+7. distort 扭曲 
+8. passive被动的, active主动的
+9. blackout停电
+10. void of 空白 derive 衍生 fancies 幻想
+11. further afield 更远的地方
+12. proportions 比例 scales 称
+13. 二战1939 - 1945 一战:1914-1918 工业革命:1760s-1840s
+14. turn to"在此处的意思是“求助于”或“依赖于
+15. variation [n] 变异；变体；变奏；变种
+16. diverge from 与...相异, prevent from阻止, form on在...上形成
+17. every强调的是整体中的所有个体(每一个都包括),三者及三者以上
+18. each强调的整体中的每一个单独的元素(每一个各自),两者及两者以上
 
 
 <!-- 
