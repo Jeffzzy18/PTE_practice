@@ -422,13 +422,62 @@
    - 观点类:两个问题,一段写好的原因,一段写不好的原因
    - ![alt text](image-9.png)
    - 开放性的问题:
-   - ![alt text](image-10.png)
+   ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/zhangzhaoye/Desktop/PTE_practice/image-7.png)- ![alt text](image-10.png)
    - 第一段结尾不同,第二段开头不同,第三段开头不同
    - 解题思路拓展:个人类, 一般适用于接地气的个人生活类题目,题目中包含:![alt text](image-11.png)
    - 解题思路:社会类, 
    - ![alt text](image-12.png)
    - ![alt text](image-13.png)
-   
+## 周一speaking(RA)
+- ![alt text](image-14.png)
+- 麦克风放在鼻头或者下巴
+- ![alt text](image-15.png)
+- 做完就点击next
+- ![alt text](image-16.png)
+- 可以换词可以漏词
+- 内容最不重要
+- 发音和流利度都很重要
+- 发音>流利度>内容 
+- 看B站的纠音视频
+- 读错了不要回头再度
+- 容错不要错太多,不能错10个
+- 速度,按照猩际上同步跟读的 Steven的速度来读
+- 有些单词很简单,但是加在一起就不流利,需用利用好30s排查出来
+- ![alt text](image-17.png)
+- 直接跳过八个词基本不影响,和sth替换5个词也基本不影响. 不要用其他方法
+- 不会的单词确定一个发音
+- 准备好断句的地方
+- 录音即将开始时,默念(以免被录进去)
+- 不完全确定的单词,只要在8个词的范围内直接跳过
+- 通读慢:语速慢,单词发音反应慢,断句不熟悉, 纠结(不要去纠结,可以直接跳过)
+- 眼睛比嘴快,难词跳过或者换词
+- 把握好声音,音量音调平稳
+- 不要音量忽大忽小,音量忽高忽低
+- 技巧划分意群: 
+- ![alt text](image-18.png)
+- 在从句引导词的前面停
+- I like A, B, C and D 这里逗号停 and 前后都不停,因为刚刚停过
+- 主语大于3个词可以停顿
+- 意群结尾要用降调
+- 有标点符号就要停!
+- 重弱读:
+- 实词(n/v/adj/adv)要重读, 虚词(can/may/must/should/but/because/人称代词)弱读
+- 实词语调升高,虚词相对低.
+- **虚词弱读of-ef, to-te, for-fer, can-ken, and-en**
+- 连读: 辅音 + 元音要连读
+- 爆破: 爆破音(k, g, t, d, p, b)+辅音要失爆, submit importantly obvious
+- 失音: bus stop 
+- months
+- 同步跟读要求:
+- step1: 播放一句原声(慢速版本), 自己读一句模仿他的语调, 断句,失爆, 连读 不卡壳
+- step2: 同步跟读慢速版本.一字一句都应该是同一个速度
+- step3: 脱离原神, 自己读
+- 作业方法:
+- 1. 首读: (常速+评分链接)
+- 2. 同步跟读: 慢速+两个设备+音频文件
+- 3. 跟读后的自读: 常速+评分后的链接
+- 不要一味追求快
+- 
 -----------------
 # RS词组: 
 1. on and off campus 校园的线上和线下
@@ -493,6 +542,21 @@
 35. physics
 36. mechanics
 37. mathematics
+38. fund资助
+39. laboratory
+40. contemporary
+41. regulation
+42. geography地理学
+43. demography人口学
+44. biased
+45. mislead原型 misled误导
+46. coverage
+47. worldwide
+48. inflation通货膨胀
+49. population后面+三单
+50. individualities个性
+51. various 形容词
+52. varies 动词三单
 
 # FIB 单词拼写
 1. physician 医生
@@ -644,6 +708,52 @@
 147. rarely
 148. authors
 149. relative
+150. clout n. 破布；敲打；影响力；势力 ,vt. 给…打补钉；猛击,n. (Clout)人名；(法)克卢
+151. terrestrial adj. 地球的；陆地的，[生物] 陆生的；人间的 ,n. 陆地生物；地球上的人
+152. nitrogen n. [化学] 氮 
+153. mysterious adj. 神秘的；不可思议的；难解的
+154. rammer n. 撞者；捣槌；装填器 ,n. (Rammer)人名；(德、匈)拉默
+155. primary adj. 主要的；初级的；基本的 ,n. 原色；最主要者 
+156. alliances n. 联盟，同盟；盟国（alliance的复数形式）；联姻
+157. align 对齐 
+158. theories 理论 theory
+159. percent 百分比
+160. assess 评估评价 assess
+161. ponds 水塘复数 ponds
+162. pounds n. 磅，英镑；重击（pound复数形式）
+163. debit 借记卡 debit
+164. debate n. 辩论；（正式的）讨论 ,v. （尤指正式）讨论，辩论；仔细考虑
+165. ancient 古代的 ancient
+166. horns n. 喇叭；号；角制品；警报器（horn的复数） ,v. 截锯…的角；用角抵撞；给…装角（horn的三单形式）,n. (Horns)人名；(瑞典、英)霍恩斯 horns
+167. sequentially adv. 从而；继续地；循序地 
+168. balloons气球 
+169. hemisphere n. 半球 
+170. characters n. 特性；人物角色（character复数） ,v. 描述（character的三单形式）；表示…的特性 
+171. extol vt. 颂扬；赞美；赞颂
+172. journal 期刊 journal
+173. autograph n. （名人的）亲笔签名
+174. graphics n. （商业设计或插图中的）图形；图样
+175. swapping 交换 
+176. concussive adj. 震荡性的；给与冲击的
+177. qualifiers 限定词(复数)
+178. Arctic 北极
+179. spreads 传播
+180. benefited adj. 受益的 ,v. 受益（benefit的过去式）
+181. particles n. 微粒，粒子；粒子系统；碎木料（particle的复数形式）
+182. launching
+183. faith
+184. symptom n. [临床] 症状；征兆
+185. vacuum 真空吸尘器
+186. supermassive adj. 特大质量的
+187. propulsion n. 推进；推进力 
+188. discursion 离题
+189. technology
+190. technological
+
+
+
+
+    
 
 # 乱七八糟笔记
 1. although 尽管表示让步,but 但是表转折. but的语气更加强烈.
