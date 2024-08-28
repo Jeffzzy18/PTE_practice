@@ -471,13 +471,58 @@
 - 同步跟读要求:
 - step1: 播放一句原声(慢速版本), 自己读一句模仿他的语调, 断句,失爆, 连读 不卡壳
 - step2: 同步跟读慢速版本.一字一句都应该是同一个速度
-- step3: 脱离原神, 自己读
+- step3: 脱离原声, 自己读
 - 作业方法:
 - 1. 首读: (常速+评分链接)
 - 2. 同步跟读: 慢速+两个设备+音频文件
 - 3. 跟读后的自读: 常速+评分后的链接
 - 不要一味追求快
-- 
+## 周二(ASQ, RS)
+1. ASQ
+   - 没有提示音! 
+   - 非选择题中只要正确答案涵盖在给出的答案之中就能得分(a chronology timeline, the chronology the timeline, It's called a chronology timeline)
+   - 听到how many可以直接猜,从1念到10
+2. RS
+   - 基础+技巧的题
+   - 一般有9-14个词
+   - 没有提示音!!!
+   - 进度条走一格开始回答, 不建议立马作答
+   - 练习抗干扰的能力
+   - 3分content 说80%其实content就有满分, 说满50%就能拿到2分
+   - 语法不重要,但是语序很重要,不能颠倒
+   - 不要犹豫, 含糊和自我纠正
+   - 模仿发音的风险很大, 说自己听懂的东西
+   - 有正确的重弱读
+   - 结尾一定要用降调, 不然会被扣分
+   - ![alt text](image-19.png)
+   - 八十分的话说个7或者8个词就行了
+   - 50分只要说出两个实词就可以
+   - 误区:
+   - 1.  内容最重要, 发音流利度没有重要作用
+   - 2. 重弱读, 断句, 发音只在RA中注意(注意考试中不用断句!!!!!)
+   - 3. 一定要模仿, 及语速, 及时发音模糊也要这样做.(一定要匀速, RA和RS都要一样的速度)
+   - 258技巧:
+   - 9-14个
+   - ![alt text](image-20.png)
+   - 超过四个词可以不用重复, 四个词一下可以重复两边就行了!!
+   - 重复不要停顿
+   - 听的时候就要决定用什么策略, 是策略1, 策略2, 策略3
+   - 播放完之后要在心里组织好答案( 过一遍内容, 说什么才能说的最好, 需不需要重复)
+   - 清晰说出答案, 不要犹豫
+   - 刷完月预测可能可以碰到原题, 也可能有WFD的原题
+   - 难题一定要忽略难词, 只说能听懂的两个词
+   - 5法则, 只能听懂一半以上(前半句/后半句/零散内容的累加)不贪心, 专注
+   - ![alt text](image-21.png)
+   - **一定不要思考纠结, 模仿听不懂的/模棱两可的, 说迅速反应的内容:发音流利度才会好**
+   - 做题步骤养成习惯
+   - 心态
+   - 专注力, 忽略听不懂的
+   - 不要贪心
+   - 对题目难易程度的感知
+   - 语块记忆, 方便听的人一小节一小节的理解
+   - ![alt text](image-22.png)
+   - ![alt text](image-23.png)
+
 -----------------
 # RS词组: 
 1. on and off campus 校园的线上和线下
@@ -488,6 +533,7 @@
 1. refer to sth as sth 把sth认为是什么
 2. quality 特征 
 3. less accessible
+
 
 # RA 单词发音
 1. written  /riten/
@@ -749,6 +795,43 @@
 188. discursion 离题
 189. technology
 190. technological
+191. journalism n. 新闻业，新闻工作；报章杂志
+192. offspring 后代
+193. dinosaurs恐龙
+194. steadfast adj. 坚定的；不变的
+195. prosperity n. 繁荣，成功
+196. stretching 拉长
+197. frontier n. 前沿；边界；国境 ,adj. 边界的；开拓的,n. (Frontier)人名；(法)弗龙捷
+198. cautionary adj. 警告的；劝诫的
+199. migration n. 迁移；移民；移动
+200. circuit n. [电子] 电路，回路；巡回；一圈；环道 ,vi. 环行,vt. 绕回…环行
+201. discovery
+202. imagining v. 想像；猜测；料想（imagine 的现在分词形式）
+203. conversation 谈话交流
+204. mentioned v. 提及，说起，谈到（mention 的过去式和过去分词）
+205. circulation
+206. immune adj. 免疫的；免于……的，免除的 ,n. 免疫者；免除者 
+207. supplemental adj. 补充的（等于supplementary）；追加的
+208. initially 最初的
+209. bounds n. 界限；跳动（bound的复数） ,v. 跳跃；弹回；限定；邻接（bound的三单形式）,n. (Bounds)人名；(英)邦兹
+210. grapher n. 记录仪；[仪] 自动记录器
+211. circular quay
+212. principally adv. 主要地；大部分
+213. bond n. 债券；结合；约定；粘合剂；纽带 ,vi. 结合，团结在一起,vt. 使结合；以…作保,n. (Bond)人名；(英、德、西、刚(金)、瑞典)邦德
+214. aesthetic 美学的 
+215. sub-letting Sub-letting:分租,合同分判员,分判经理,转租 sub-letting rental income:收入
+216. controversial adj. 有争议的；有争论的
+217. bored 无聊的
+218. acknowledge
+219. technologies 技术复数
+220. observable adj. 显著的；觉察得到的；看得见的 ,n. [物] 可观察量；感觉到的事物
+221. earnestly adv. 认真地；诚挚地
+
+
+
+
+
+
 
 
 
