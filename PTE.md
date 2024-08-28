@@ -522,6 +522,62 @@
    - 语块记忆, 方便听的人一小节一小节的理解
    - ![alt text](image-22.png)
    - ![alt text](image-23.png)
+## 周三(DI)
+1. DI
+   - DI 25s的准备时间, 40s的答题时间, 录音开始时候会有提示音, 沉默三秒就结束.
+   - 不用说满40s, 建议&frac34;时就说完,大概30s, 不要超过35s
+   - 建议: 使用猩际满分模版, 提及图片上至少8个词, 维持大概25-30s的作答
+   - 作答时不要在乎语法
+   - 需要雨露均沾,不能只说一种元素
+   - 要语速均匀
+   - ![alt text](image-24.png)
+   - 一定要把模版弄熟
+   - 可以比ra, rs快一点点
+   - 模版是发音和流利度的保证
+   - 模版:
+   - 所有的标点符号都要停顿,逗号和所有的意群停顿都是0.5s, 句号和感叹号问号1s左右
+ ```
+ The following graph gives information about +标题.(标题如果太长可以可以选词读)
+
+It is a very useful graph. (It is a 虚词连词快读)
+
+According to the graph, I notice + 关键词1 and 关键词2. (according要重度 to 弱读)
+
+From the graph, I find + 关键词3 and 关键词 4. (From the 要弱读 graph要重度)
+
+What's more, it shows the highest is 关键词5 and the lowest is 关键词6.(highest-is 连读, lowest-is连词)
+
+Finally, there is/are 关键词 7 and 关键词8.  （PS：there is，there are哪个顺口读哪个，因为口语不考察语法）
+
+To sum up, this graph tells a lot./ In conclusion, the picture is very informative/useful/improtant/interesting.
+```
+- ![alt text](image-25.png)
+- 不确定的单词不要读
+- 年份的读法
+- ![alt text](image-26.png)
+- ![alt text](image-27.png)
+- 4000 four thousand
+- 1700 seventy o o
+- 2014 twenty fourteen
+- 2050 twenty fifty
+- 888 eight eight-eight
+- 纯图片:
+- 1. 可以描述物品名称或者颜色
+- 2. 由大到小, 先具体后抽象
+- ![alt text](image-28.png)
+- 形状 颜色 内容不够, step来凑(First step, second step, step one, step 2)
+- ![alt text](image-29.png)
+- 按照顺序说 先说大再说小,先具体在抽象
+- 可以用笔直接写下来所有的单词 用and链接一个句子中的两个词,读两遍
+- 碰到大数字,直接估读,最大单位
+- 一个逗号是thousand, 两个逗号是million, 三个逗号是billion
+- percent 是这个符号 , percentage是百分之
+- ![alt text](image-30.png)
+- 不可以约分!!!
+- 模版一定要滚瓜烂熟,脱口而出,不假思索. **模板和关键词之间不要停顿**
+- 要充分利用准备时间
+- 不要过度追求内容过多, 内容准确就行!
+- ![alt text](image-31.png)
 
 -----------------
 # RS词组: 
@@ -547,6 +603,7 @@
 9. tutorial /tju:ˈtɔ:riəl/
 10. following
 11. silver
+12. traditional  [trəˈdɪʃənl]传统的  
 
 
 
@@ -826,6 +883,70 @@
 219. technologies 技术复数
 220. observable adj. 显著的；觉察得到的；看得见的 ,n. [物] 可观察量；感觉到的事物
 221. earnestly adv. 认真地；诚挚地
+222. consistency n. [计] 一致性；稠度；相容性
+223. equities 股票复数 stock
+224. predator 捕猎者
+225. traditional 传统的  
+226. contemporary 当代的
+227. beneath 在下方
+228. portraits portrait肖像
+229. predicament 窘境 dilemma 窘境
+230. tokyo
+231. Korea
+232. coalition n. 联合；结合，合并
+233. confess vt. 承认；坦白；忏悔；供认 ,vi. 承认；坦白；忏悔；供认
+234. rustic rural 乡村的
+235. passenger n. 旅客；乘客；过路人；碍手碍脚的人
+236. mutate 变化
+237. separated separated
+238. competitions
+239. autumn
+240. enormously numerous
+241. perspective n. 观点；远景；透视图 ,adj. 透视的
+242. swings n. 摇摆，改变，冲力（swing的复数形式）；（复数）秋千 ,v. 摇摆，使…旋转（swing的单三形式）,n. (Swings)人名；(德、荷)斯温斯
+243. shallow 浅的肤浅的
+244. pedal 踏板
+245. deduction 减去
+246. baffle vt. 使…困惑；使…受挫折；用挡板控制 ,n. 挡板；困惑,vi. 做徒劳挣扎
+247. compel vt. 强迫，迫使；强使发生 ,n. (Compel)人名；(法)孔佩尔
+248. tension n. 张力，拉力；紧张，不安；电压 ,vt. 使紧张；使拉紧
+249. covert 隐蔽的
+250. coaching n. 辅导；教练技术 ,v. 指导（coach的ing形式）
+251. celebrate
+252. dispersal n. 分散；传播；散布；疏散；消失
+253. taught v. 教授（teach的过去分词）
+254. sculpture  n. 雕塑；雕刻；刻蚀 ,vt. 雕塑；雕刻；刻蚀,vi. 从事雕刻
+255. rash n. （皮肤）皮疹；（非正式）突然大量出现的事物 ,adj. 轻率的，鲁莽的；不顾后果的,n. (Rash) （美、俄、英）拉什（人名）
+256. beleaguered adj. 围困的；包围的 ,v. 围攻（beleaguer的过去式和过去分词）
+257. forensic adj. 法医的；法院的；辩论的；适于法庭的 ,n. 司法鉴定手段；司法鉴定部门
+258. devastating  毁灭
+259. revenue n. 税收收入；财政收入；收益
+260. avenue 大街
+261. brilliant
+262. lure n. 诱惑；饵；诱惑物 ,vt. 诱惑；引诱；引怪（游戏术语）,n. (Lure)人名；(英)卢尔
+263. qualitative  adj. 定性的；质的，性质上的
+264. boundary
+265. capital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
