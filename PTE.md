@@ -477,7 +477,7 @@
 - 2. 同步跟读: 慢速+两个设备+音频文件
 - 3. 跟读后的自读: 常速+评分后的链接
 - 不要一味追求快
-## 周二(ASQ, RS)
+## 周二(ASQ, RS这两个题型没有提示框)
 1. ASQ
    - 没有提示音! 
    - 非选择题中只要正确答案涵盖在给出的答案之中就能得分(a chronology timeline, the chronology the timeline, It's called a chronology timeline)
@@ -500,7 +500,7 @@
    - 误区:
    - 1.  内容最重要, 发音流利度没有重要作用
    - 2. 重弱读, 断句, 发音只在RA中注意(注意考试中不用断句!!!!!)
-   - 3. 一定要模仿, 及语速, 及时发音模糊也要这样做.(一定要匀速, RA和RS都要一样的速度)
+   - 3. 一定不要模仿, 及语速, 及时发音模糊也要这样做.(一定要匀速, RA和RS都要一样的速度)
    - 258技巧:
    - 9-14个
    - ![alt text](image-20.png)
@@ -578,6 +578,26 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 - 要充分利用准备时间
 - 不要过度追求内容过多, 内容准确就行!
 - ![alt text](image-31.png)
+
+## 周四(DL)
+1. DL
+- 音频长度60-90s, 十秒准备, 40s答题,有提语音, 沉默3s结束
+- DL有两个框
+- 要花10s来筛选笔记
+- 主题词一定出现在lecture开头. 所以要仔细听lecture的开头
+- 如果没有听见主题词,就随便找一个听到的内容
+- 尽可能多记实词,可以记十二个左右
+- ![alt text](image-32.png)
+- 模版:
+- ![alt text](image-33.png)
+- emphasize可以改成talk about或者point out
+- 听到了10-12 个实词就可以不用听接下来的音频了, 可以直接开始检查 
+2. RA(一句话)
+   - ![alt text](image-34.png)
+   - 必须挨着, 14个词
+   - 实在不能读才读一段话
+   - 用跳过技巧,不要用something技巧
+   - ![alt text](image-35.png)
 
 -----------------
 # RS词组: 
@@ -927,6 +947,69 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 263. qualitative  adj. 定性的；质的，性质上的
 264. boundary
 265. capital
+266. perception 感知
+267. incredibly adv. 难以置信地；非常地
+268. diffident adj. 羞怯的；缺乏自信的；谦虚谨慎的
+269. essentially adv. 本质上；本来
+270. subsidies 补助金，补贴，津贴（subsidy的名词复数）
+271. strength n. 力量；力气；兵力；长处
+272. swung v. 摇摆（swing的过去式和过去分词）
+273. oceanologist 海洋学家
+274. substances n. [物] 物质；基本内容；物品药物（substance的复数）
+275. chef n. 厨师，大师傅 ,n. (Chef)人名；(法)谢夫
+276. casually adv. 随便地；偶然地；临时地
+277. annotation n. 注释；注解；释文
+278. irrational adj. 不合理的；无理性的；荒谬的 ,n. [数] 无理数
+279. nutrition n. 营养，营养学；营养品
+280. describe description
+281. emulated 努力赶上 ,与…竞争,模仿（emulate的过去式和过去分词）
+282. respondents n. 回答者，调查对象（respondent复数形式）
+283. socialize
+284. church
+285. philosophy
+286. wondering
+287. paddle n. 划桨；明轮翼 ,vt. 拌；搅；用桨划,vi. 划桨；戏水；涉水
+288. habitat n. [生态] 栖息地，产地 ,n. (Habitat)人名；(德)哈比塔特
+289. dialogue n. 对话；意见交换 ,vi. 对话,vt. 用对话表达
+290. technician n. 技师，技术员；技巧纯熟的人
+291. biology
+292. assurance
+293. spirit
+294. stabilized adj. 稳定的；减摇的 ,v. 稳定（stabilize的过去分词）
+295. intentionally adv. 故意地，有意地
+296. drowning v. 淹没；（使）[外科] 淹溺；浸没（drown的ing形式） ,n. 溺死,adj. 溺水的
+297. dawn n. 黎明；开端 ,vt. 破晓；出现；被领悟,n. (Dawn)人名；(西)道恩
+298. manufacture
+299. vogue n. 时尚；流行，时髦 ,adj. 时髦的，流行的,n. (Vogue)人名；(葡)沃格
+300. facilities
+301. salted
+302. overseeing 监督 ,审查,俯瞰,偷看到，无意中看到
+303. appalling
+304. convincible adj. 可使信服的；可说服的
+305. intensity n. 强度；强烈；[电子] 亮度；紧张
+306. shoots
+307. scary
+308. ride
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
