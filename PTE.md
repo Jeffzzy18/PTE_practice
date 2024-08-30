@@ -598,7 +598,52 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
    - 实在不能读才读一段话
    - 用跳过技巧,不要用something技巧
    - ![alt text](image-35.png)
-
+## 周五(SWT)
+1. SWT:
+   - 有可能出现一到两道
+   - 是单独计时,10mins
+   - 写作6分 阅读4分
+   - 5到75字
+   - 直接照抄句子, 平时练的时候不要复制粘贴
+   - 花 3-4 mins找关键句, 3-4 mins打字 最后留出时间来检查
+   - 满分7分, 内容2分(关键句子到达80%以上就能拿满分了, 50%-60%能拿1分, 一个关键词都没拿到就是0分) 格式1分(如果没有拿到分数, 就是0分, 只有一个句子)
+   - 内容是用多个句子链接起来成一个完整的句子
+   - 大概要抄5句话
+   - 语法和词汇都是2分
+   - 可以使用猩际SWT模版, 可以使用一个分号, 不用概括, 关键点不对会被扣分
+   - 选取4-5个关键句
+   - 不选:
+   - 1. 选与不选真纠结, 
+   - ![alt text](image-36.png)
+   - 主句和从句之间有逗号隔开是非限制性定语从句,可以删除, 如果没有逗号,就是限制性定语从句, 不能删除. 举例子可以删除. including involving...
+   - 插入语(可以删,两个逗号之间的不用选, 两个破折号之间的不用选, 两个逗号都不要)
+   - 抄句子的时候都不用保留句子中的标点符号.
+   - Although让步不用选, 直接找后半句即可
+   - while可以做时间状语从句,相当于when. while可以用作转折, 相当于but, 意思是然而. while放在句子开头, 表虽然
+   - while用中后前远,while在句中就用跟在while后面的, while在句首, 就用while逗号之后的
+   - 看到but多数要, 直接抄but之后的内容
+   - ![alt text](image-38.png)
+   - 看见Another前后两句都是, meanwhile后面的一定是重点
+   - 权威说的话都要留下, Research Dr. , 大写的机构杂志名称, 间接引语没有双引号, 直接引语有双引号,我们要选间接引语只抄引用的内容不要抄谁说的, 直接引语不要选
+   - 终结句就是一定要写
+   - 议论文会分段, 要直接锁定每一段的开头, 议论文一般是总分总分,只适用于议论文
+   - ![alt text](image-39.png)
+   - ![alt text](image-40.png)
+   - 如果多余5个就删改成5个
+   - 模版:
+   - ![alt text](image-41.png)
+   - ![alt text](image-42.png)
+   - 不要抄链接词或者链接副词
+   - 如果看不懂采用下面的内容:
+   - ![alt text](image-43.png)
+   - 语法排查:
+   - 1. 多余一个句号, 没有连接词
+   - 2. and使用多次
+   - ![alt text](image-44.png)
+   - 3. Diasporas are getting large, sticker and stronger, and diaspora consciousness is on the rise, which means that host countries are witnessing more assertive diasporic groups within their own national communities, so this trend is the result of five factors, all of them connected with globalisation; they will continue to grow.
+   - ![alt text](image-45.png)
+   - 冒号前面的内容也可以选!!
+   - 尽量按照文章中的顺序去写
 -----------------
 # RS词组: 
 1. on and off campus 校园的线上和线下
@@ -990,6 +1035,84 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 306. shoots
 307. scary
 308. ride
+309. chlorophyll 叶绿素
+310. clothing
+311. decline
+312. relatively
+313. reflect
+314. habitant n. 居民，居住者
+315. eventually eventually
+316. emit vt. 发出，放射；发行；发表
+317. density
+318. administrative adj. 管理的，行政的
+319. fears
+320. underlying adj. 潜在的；根本的；在下面的；优先的 ,v. 放在…的下面；为…的基础；优先于（underlie的ing形式）
+321. spices 香料
+322. embrace v. 拥抱；欣然接受，乐意采纳；包括，涉及；围绕，环绕 ,n. 拥抱；接受，信奉
+323. favourite adj. 特别受喜爱的 ,n. 特别喜爱的人（或物）
+324. thrown v. 抛（throw的过去分词）；扔掉
+325. basically
+326. boundaries
+327. inevitable adj. 必然的，不可避免的
+328. historian n. 历史学家
+329. telescopes n. [光] 望远镜（telescope的复数） ,vt. 缩短（telescope的第三人称单数）
+330. fragile adj. 脆的；易碎的
+331. convergence 收敛
+332. individuality n. 个性；个人；个人特征；个人的嗜好（通常复数）
+333. instilled v. 徐徐滴入；逐渐灌输（instill 的过去式和过去分词）
+334. pseudo n. 伪君子；假冒的人 ,adj. 冒充的，假的
+335. protein
+336. symptomatic
+337. contemporary adj. 发生（属）于同时期的；当代的 ,n. 同代人，同龄人；同时期的东西
+338. manipulate vt. 操纵；操作；巧妙地处理；篡改
+339. reservoir n. 水库；蓄水池
+340. atmosphere
+341. creditably adv. 不愧；有名誉地；美满地
+342. irrelevant
+343. invest
+344. trickery
+345. curing
+346. massive
+347. colleagues 同事
+348. sociable adj. 社交的；好交际的；友善的 ,n. 联谊会
+349. socialble
+350. underneath
+351. convinced adj. 确信的；深信的 ,v. 使确信（convince的过去分词）；说服
+352. career, korean
+354. awoke v. 醒来（awake的过去分词）；唤醒；引起 awoke:觉醒,叶靓,小王子,撼地神牛 Four Awoke:四点就醒 awake awoke:唤醒
+355. relying
+356. induced adj. 感应的；诱发型 ,v. 引诱；说服（induce的过去分词）
+357. variables n. [数] 变量
+358. observed adj. 观察的；观测的 ,v. 观察；遵守；注意到；庆祝（observe的过去分词形式）
+359. radiative  adj. 辐射的；放射的；发光的；放热的
+360. opt  vi. 选择
+361. insurance n. 保险；保险费；保险契约；赔偿金
+362. existence
+363. validity n. [计] 有效性；正确；正确性
+364. subordinated  附属
+365. monetary adj. 货币的；财政的
+366. hostile
+367. ferry
+368. testify
+369. month伸舌头 和months不伸舌头
+370. distrust n. 不信任，怀疑 ,v. 不信任，怀疑
+371. shortfall n. 差额；缺少
+372. modes n. 模式（mode的复数形式）；方法；分辨率
+373. electronically adv. 电子地
+374. repetition n. 重复；背诵；副本
+375. medium 中间的
+376. infrastructure n. 基础设施；公共建设；下部构造
+377. neighbour n. 邻居；同胞；仁慈的人 ,vt. 邻接,vi. 住在邻近；毗邻；友善，和睦,adj. 邻居的；邻近的
+378. particularly adv. 异乎寻常地；特别是；明确地
+379. equation n. 方程式，等式；相等；[化学] 反应式
+380. tropical adj. 热带的；热情的；酷热的
+381. strategic adj. 战略上的，战略的
+382. frontiers n. 边疆（frontier的复数）；尖端科学
+383. riveting adj. 吸引人的 ,n. [机] 铆接,v. 用铆钉固定；集中于…（rivet的ing形式）
+384. board n. 董事会；木板；甲板；膳食 ,vt. 上（飞机、车、船等）；用板盖上；给提供膳宿,vi. 寄宿,n. (Board)人名；(英、西)博德
+385. broad 广泛的
+386. brought
+387. disappeared adj. 消失的；消失了的 ,v. 消失，失踪（disappear的过去式和过去分词）
 
 
 
@@ -1006,41 +1129,6 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
 # 乱七八糟笔记
 1. although 尽管表示让步,but 但是表转折. but的语气更加强烈.
