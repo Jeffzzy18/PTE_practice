@@ -1113,6 +1113,83 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 385. broad 广泛的
 386. brought
 387. disappeared adj. 消失的；消失了的 ,v. 消失，失踪（disappear的过去式和过去分词）
+388. labour
+389. Industrial
+390. chamber n. （身体或器官内的）室，膛；房间；会所 ,adj. 室内的；私人的，秘密的,vt. 把…关在室内；装填（弹药等）,n. (Chamber)人名；(英)钱伯
+391. actually adv. 实际上；事实上
+392. arbitrated 仲裁的
+393. distinction n. 区别；差别；特性；荣誉、勋章
+394. queen
+395. phenomena n. 现象（phenomenon 的复数 ）
+396. remaining
+397. sediment
+398. Shakespeare
+399. shelter
+400. prospective
+401. dastard n. 懦夫；卑鄙的人 ,adj. 怯懦可鄙的
+402. aggressive
+403. suppressed
+404. frustrated adj. 懊恼的，沮丧的；无效的，没有得到满足的；失意的，不得志的；（性欲）被抑制的 ,v. 挫败；阻挠（frustrate 的过去式和过去分词）
+405. discipline
+406. synthesis n. 综合，[化学] 合成；综合体
+407. profound adj. 深厚的；意义深远的；渊博的
+408. galaxies n. [天] 星系；银河系（galaxy的复数）
+409. emulates
+410. impacting
+411. proportion
+412. quiet
+413. devolution n. 权力下放，分权；倒退，堕落；退化；（财产的）合法转让；相传，转移；委付；依次；落下
+414. academy n. 学院；研究院；学会；专科院校
+415. exhibit
+416. undoubtedly adv. 确实地，毋庸置疑地
+417. hydrogen 氢气
+418. rote n. 死记硬背；生搬硬套 ,n. (Rote)人名；(德、俄)罗特
+419. turned
+420. negative
+421. apparent adj. 显然的；表面上的
+422. crises 危机(复数)
+423. horror n. 惊骇；惨状；极端厌恶；令人恐怖的事物
+424. visible adj. 明显的；看得见的；现有的；可得到的 ,n. 可见物；进出口贸易中的有形项目
+425. incentive n. 动机；刺激 ,adj. 激励的；刺激的
+426. branding
+427. crucial 关键的
+428. absorb
+429. factory
+430. femininity n. 女子气质，女性本性；温柔，柔弱；女性
+431. lenient adj. 宽大的；仁慈的 ,n. (Lenient)人名；(法)勒尼安
+432. equations n. 方程式；等式；均等；均势（equation的复数形式）
+433. untraditional
+434. crisis n. 危机；危险期；决定性时刻 ,adj. 危机的；用于处理危机的(单数)
+435. mimic vt. 模仿，摹拟 ,n. 效颦者，模仿者；仿制品；小丑,adj. 模仿的，模拟的；假装的
+436. radical adj. 激进的；根本的；彻底的 ,n. 基础；激进分子；[物化] 原子团；[数] 根数
+437. perceptions
+438. cooperation
+439. potential
+440. explosion
+441. representative adj. 典型的，有代表性的；代议制的；表现的，体现的；与表象有关的 ,n. 代表；典型；众议员；销售代表
+442. moderation n. 适度；节制；温和；缓和
+443. skeptical adj. 怀疑的；（哲学）怀疑论的，不可知论的
+444. intelligence
+445. technically
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
