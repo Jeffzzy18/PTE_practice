@@ -669,6 +669,10 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 10. following
 11. silver
 12. traditional  [trəˈdɪʃənl]传统的  
+13. countries
+14. mutual
+15. politics /'pɒlətɪks/
+16. diverse
 
 
 
@@ -1171,6 +1175,136 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 443. skeptical adj. 怀疑的；（哲学）怀疑论的，不可知论的
 444. intelligence
 445. technically
+446. dispersion n. 散布；[统计][数] 离差；驱散
+447. donor n. 捐赠者；供者；赠送人 ,adj. 捐献的；经人工授精出生的
+448. controversy n. 争论；论战；辩论
+449. compatible adj. 兼容的；能共处的；可并立的
+450. subscribe
+451. describe
+452. potent
+453. spinning v. （使）快速旋转；（使）急转身；纺（线）；吐（丝）；驾车飞驰；（用旋转式脱水机）甩干衣服；有倾向性地陈述；眩晕；抛（硬币）；（球）旋转；播放（唱片）；旋压成形；（用旋式诱饵）钓鱼（spin 的现在分词） ,n. 纺线（手艺），纺纱（手艺）；动感单车运动,adj. 纺织的
+454. certainly adv. 当然；行（用于回答）；必定
+455. undeniable adj. 不可否认的；公认优秀的；无可争辩的
+456. convey
+457. broadcast
+458. ascertain vt. 确定；查明；探知
+459. unwind vt. 放松；解开；[计] 展开 ,vi. 放松；解开；松开
+460. excellence
+461. synthetic adj. 综合的；合成的，人造的 ,n. 合成物
+462. rewinding n. 回卷；反绕，卷带 ,v. 再绕；倒回（rewind的ing形式）
+463. characteristic adj. 典型的；特有的；表示特性的 ,n. 特征；特性；特色
+464. tidal adj. 潮汐的；潮的，有关潮水的；定时涨落的 ,n. (Tidal)人名；(瑞典)蒂达尔
+465. responsibilities
+466. portrait n. 肖像；描写；半身雕塑像 ,n. (Portrait)人名；(法)波特雷
+467. subconsciously adv. 潜意识地
+468. atmospheric adj. 大气的，大气层的
+469. auditory adj. 听觉的 ,n. 听众；礼堂
+470. glean vt. 收集（资料）；拾（落穗） ,vi. 收集；拾落穗
+471. particular
+472. recruit v. 征募；聘用；通过招募组建；补充；（非正式）说服；（使）恢复健康 ,n. 招聘；新兵；新成员
+473. intermediate adj. 中间的，过渡的；中级的，中等的 ,n. 中级生；（化合物）中间体，中间物；中介，媒介,v. 充当调解人，起媒介作用
+474. marionette n. 牵线木偶
+475. engendering 引起
+476. acclimate vi. 服水土；适应新环境 ,vt. 使适应；使服水土
+477. dealing  v. 发（纸牌）；发放；买卖；与……有关；（非正式）买卖毒品（deal 的现在分词） ,n. 生意往来；（与某人的）关系；交易；待人之道
+478. foreshadow vt. 预示；成为…的前兆 ,n. 预兆
+479. constitutes v. 构成（constitute的单三形式）；组成
+480. permission n. 允许，许可
+481. surveyed v. 调查，俯视（survey的过去式和过去分词形式）；考察，调研
+482. obligated adj. 有义务的；责无旁贷的 ,v. 使负义务（obligate的过去式）
+483. devotion n. 献身，奉献；忠诚；热爱
+484. supplementing 补
+485. simplicity 简约
+486. matchstick 火柴棍
+487. lined
+488. stirring adj. 激动人心的；轻快的，活跃的 ,n. （活动、情绪等的）出现，萌芽，最初迹象,v. 搅动，搅拌；（使）微动，活动；打动，激发；萌动；拨弄是非（stir 的现在分词）
+489. quantitative adj. 定量的；量的，数量的
+490. absolutely
+491. occurring
+492. properties n. 性能；道具，内容（property的复数形式）
+493. curriculum n. 课程 ,总课程
+494. enormous 巨大的
+495. necessarily adv. 必要地；必定地，必然地
+496. spectrum n. 光谱；频谱；范围；余象
+497. loosel adv. 宽松地；放荡地；轻率地
+498. consciousness n. 意识；知觉；觉悟；感觉
+499. raw
+500. cheaper
+501. articulation n. （想法、思想等的）语言表达；清楚的咬字（或发音），说话；关节连接，铰接式接头
+502. magnifying adj. 放大的 ,v. 放大（magnify的ing形式）；增加；升高
+503. sustainable
+504. restores 恢复 ,修复,复原,归还,使复原
+505. breathe 呼吸
+506. planet n. 行星 ,n. (Planet)人名；(法)普拉内；(西、葡)普拉内特
+507. tolerate vt. 忍受；默许；宽恕
+508. trauma n. [外科] 创伤（由心理创伤造成精神上的异常）；外伤 ,n. (Trauma)人名；(西)特劳马
+509. journalist n. 新闻工作者；报人；记日志者
+510. diverse  adj. 不同的，相异的；多种多样的，形形色色的
+511. conservative adj. 保守的 ,n. 保守派，守旧者
+512. volume n. 量；体积；卷；音量；大量；册 ,adj. 大量的,vi. 成团卷起,vt. 把…收集成卷
+513. inbred adj. 天生的；近亲交配的 ,v. 同系交配（inbreed的过去式及过去分词）
+514. widening
+515. concentration
+516. aftermath n. 后果；余波 ,n. （Aftermath）《空难余波》（电影名）
+517. laboratory n. 实验室，研究室
+518. critically adv. 精密地；危急地；严重地；批评性地；用钻研眼光地；很大程度上；极为重要地
+519. recession n. 衰退；不景气；后退；凹处
+520. secular adj. 世俗的；非宗教的；在俗的；约百年一次的；长期的；现世的；不朽的 ,n. 修道院外的教士，（对宗教家而言的）俗人
+521. figures n. 价格，金额，[数] 数字；人物（figure的复数）；[数] 图形，图表；规定动作 ,n. (Figures)人名；(英)菲格斯
+522. elementary adj. 基本的；初级的；[化学] 元素的
+523. Spanish
+524. coercive adj. 强制的；胁迫的；高压的
+525. subsiding n. 下沉 ,v. 下沉；沉淀（subside的ing形式）
+526. patriotism n. 爱国主义；爱国心，爱国精神
+527. tremendous adj. 极大的，巨大的；惊人的；极好的
+528. vary vi. 变化；变异；违反 ,vt. 改变；使多样化；变奏,n. (Vary)人名；(英、法、罗、柬)瓦里
+529. matchbox n. 火柴盒
+530. imagine
+531. redact vt. 编辑；编写
+532. heart 心
+533. determining n. 决定；测定（determine的ing形式）
+534. serve vt. 招待，供应；为…服务；对…有用；可作…用 ,vi. 服役，服务；适合，足够；发球；招待，侍候,n. 发球，轮到发球,n. (Serve)人名；(法)塞尔夫
+535. pasture n. 草地；牧场；牧草 ,vt. 放牧；吃草,n. (Pasture)人名；(英)帕斯彻；(法)帕斯蒂尔
+536. aspiration
+537. paradoxical
+538. alphabet
+539. electronic
+540. former 从前的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1226,6 +1360,9 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 16. diverge from 与...相异, prevent from阻止, form on在...上形成
 17. every强调的是整体中的所有个体(每一个都包括),三者及三者以上
 18. each强调的整体中的每一个单独的元素(每一个各自),两者及两者以上
+19. economic reason 经济的
+20. less修饰不可数名词 less money
+21. fewer修饰可数名词复数 fewer newspapers
 
 
 <!-- 
