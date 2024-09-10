@@ -1271,76 +1271,6 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 539. electronic
 540. former 从前的
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 乱七八糟笔记
 1. although 尽管表示让步,but 但是表转折. but的语气更加强烈.
 2. suppress抑制 stimulate激发 pre-determined contacts预先联系人
@@ -1363,6 +1293,9 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 19. economic reason 经济的
 20. less修饰不可数名词 less money
 21. fewer修饰可数名词复数 fewer newspapers
+22. individual 是adj也是n, 做n的时候是可数名词, 可以加s表复数.
+23. harmony n.和声，和弦；融洽，和睦；和谐，协调；（内心的）平静；四福音书的对照统一文本，（内容相似文本的）统一对照本
+24. harmonious adj. 和睦的，融洽的；悦耳的；和谐的，协调的
 
 
 <!-- 
