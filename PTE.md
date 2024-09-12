@@ -1296,6 +1296,11 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 22. individual 是adj也是n, 做n的时候是可数名词, 可以加s表复数.
 23. harmony n.和声，和弦；融洽，和睦；和谐，协调；（内心的）平静；四福音书的对照统一文本，（内容相似文本的）统一对照本
 24. harmonious adj. 和睦的，融洽的；悦耳的；和谐的，协调的
+25. so是连词,可以连接两个句子,而thus和therefore都是副词,不能用来连接两个句子,所以不能出现两个主谓宾
+26. despite是adv, Although和albeit是连词
+27. as regard关于
+28. pass是v表示通过, past是n, adv, adj,表示过去
+29. success n. succeed v. successful adj
 
 
 <!-- 
