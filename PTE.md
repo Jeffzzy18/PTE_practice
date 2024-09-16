@@ -1301,6 +1301,9 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 27. as regard关于
 28. pass是v表示通过, past是n, adv, adj,表示过去
 29. success n. succeed v. successful adj
+30. everyday是adj   every day是adv
+31. eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen
+32. twenty thirty forty fifty sixty seventy eighty ninety hundred.
 
 
 <!-- 
