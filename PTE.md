@@ -1304,6 +1304,11 @@ To sum up, this graph tells a lot./ In conclusion, the picture is very informati
 30. everyday是adj   every day是adv
 31. eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen
 32. twenty thirty forty fifty sixty seventy eighty ninety hundred.
+33. foundation fundamental funding fund
+34. environment 自然环境不可数
+35. human 可数
+36. rs需要再说之前就确定好要说几遍,不要说完了一句话再补一遍
+37. we中的主将从现if前面没有逗号
 
 
 <!-- 
